@@ -1,5 +1,7 @@
-# POO2
-*POO second group lab*
+# Object Oriented Programming - Second project
+*Description*
+
+This project is the implementation of the game "Game of Life", developed in Java and making use of a sparse array and a sentinel linked list to improve its performance.
 
 ### How to start working on the project
  
